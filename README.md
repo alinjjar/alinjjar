@@ -75,21 +75,10 @@ I'm currently preparing some of my projects for GitHub. More projects will be ad
 
 🔗 Repository: **Coming Soon**
 
----
-
-## 📊 GitHub Stats
-
-![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=alinjjar\&show_icons=true\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alinjjar\&layout=compact\&hide_border=true)
-
----
 
 ## 📫 Connect With Me
 
-* GitHub: [@alinjjar](https://github.com/alinjjar)
-* LinkedIn: **Coming Soon**
-* Portfolio: **Coming Soon**
+* Email : ali20032003najjar@gmail.com
 
 ---
 
