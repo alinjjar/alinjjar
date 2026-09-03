@@ -1,66 +1,107 @@
-# alinjjar
+# Hi, I'm Ali 👋
 
-مرحبا بك في المشروع! 👋
+### Software Engineering Student | Web Development Enthusiast
 
-## عن المشروع
+I'm a **Software Engineering student at Fırat University in Türkiye**, with an expected graduation year of **2027**.
 
-هذا المشروع يتم بناؤه من قبل alinjjar. ستضيف هنا المشاريع والأكواد الخاصة بك.
+I'm interested in **Web Development** and enjoy learning how modern web applications are designed, built, and improved.
 
-## البدء
-
-### المتطلبات
-- [أضف المتطلبات هنا]
-
-### التثبيت
-
-```bash
-# استنسخ المستودع
-git clone https://github.com/alinjjar/alinjjar.git
-
-# ادخل المجلد
-cd alinjjar
-
-# [أضف أوامر التثبيت هنا]
-```
-
-### التشغيل
-
-```bash
-# [أضف أوامر التشغيل هنا]
-```
-
-## البنية
-
-```
-.
-├── README.md         # هذا الملف
-└── [أضف ملفات أخرى]
-```
-
-## الميزات
-
-- ✨ [أضف الميزات الرئيسية]
-- 🎯 [أضف الأهداف]
-
-## المساهمة
-
-نرحب بمساهماتك! يمكنك:
-
-1. Fork المشروع
-2. إنشاء فرع للميزة الجديدة (`git checkout -b feature/Amazing`)
-3. Commit التغييرات (`git commit -m 'Add some Amazing'`)
-4. Push إلى الفرع (`git push origin feature/Amazing`)
-5. فتح Pull Request
-
-## الترخيص
-
-[أضف نوع الترخيص]
-
-## التواصل
-
-- 📧 البريد: alinjjar@example.com
-- 🐙 GitHub: [@alinjjar](https://github.com/alinjjar)
+Currently, I'm expanding my knowledge in both frontend and backend technologies and working on several projects that I’ll be publishing here soon.
 
 ---
 
-**ملاحظة:** هذا README قالب أساسي. عدّله حسب احتياجات مشروعك! 🚀
+## 🚀 About Me
+
+* 🎓 Software Engineering student at **Fırat University**
+* 📍 Türkiye
+* 🌐 Interested in **Web Development**
+* 💻 Learning and building web applications
+* 🌱 Currently improving my **TypeScript** and **Node.js** skills
+* 🎯 Expected graduation: **2027**
+* 📚 Always learning new technologies and improving my development skills
+
+---
+
+## 💻 Technologies & Tools
+
+### Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge\&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge\&logo=typescript)
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge\&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge\&logo=css3)
+
+### Backend & Runtime
+
+![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge\&logo=node.js)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge\&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge\&logo=github)
+![VS Code](https://img.shields.io/badge/VS%20Code-000?style=for-the-badge\&logo=visualstudiocode)
+
+---
+
+## 📂 Projects
+
+I'm currently preparing some of my projects for GitHub. More projects will be added soon.
+
+### 🌐 Project 1 — Coming Soon
+
+> A web development project I'm currently preparing.
+
+**Technologies:** `JavaScript` `TypeScript` `Node.js`
+
+🔗 Repository: **Coming Soon**
+
+---
+
+### 💻 Project 2 — Coming Soon
+
+> More details will be available when the project is published.
+
+**Technologies:** `HTML` `CSS` `JavaScript`
+
+🔗 Repository: **Coming Soon**
+
+---
+
+### 🚀 Project 3 — Coming Soon
+
+> Another project currently in development.
+
+**Technologies:** `To be added`
+
+🔗 Repository: **Coming Soon**
+
+---
+
+## 📊 GitHub Stats
+
+![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=alinjjar\&show_icons=true\&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alinjjar\&layout=compact\&hide_border=true)
+
+---
+
+## 📫 Connect With Me
+
+* GitHub: [@alinjjar](https://github.com/alinjjar)
+* LinkedIn: **Coming Soon**
+* Portfolio: **Coming Soon**
+
+---
+
+### 💡 Currently
+
+```text
+Learning  → TypeScript & Node.js
+Building  → Web Development Projects
+Studying  → Software Engineering
+Goal      → Becoming a better Software Engineer
+```
+
+---
+
+⭐ **More projects are coming soon.**
